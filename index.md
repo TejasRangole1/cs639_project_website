@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Automatic Greyscale to Color Conversion
 
 You can use the [editor on GitHub](https://github.com/TejasRangole1/cs639_project_website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
